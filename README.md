@@ -8,7 +8,7 @@
 Pixeli uses Sharp, a Node.js wrapper for the libvips library which is based on C. This makes it an extremely fast tool with support for PNG, JPG, GIF, SVG, AVIF, etc.
 
 The tool currently supports four main layout modes: ***Grid***, ***Masonry*** (horizontal / vertical), ***Template***, and ***Collage***. Each of them provide a distinct visual style to match a project's needs, for example:
-
+BLAH BLAH BLAH
 | Grid (1:1 images) | Contact Sheet Grid |
 |---|---|
 | <img src="samples/grid.jpg" width="400"> | <img src="samples/grid-with-captions.jpg" width="400"> |
