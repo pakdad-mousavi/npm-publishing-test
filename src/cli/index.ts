@@ -11,6 +11,7 @@ import collageCommand from './commands/collage/index.js';
 import pkg from '../../package.json' with { type: 'json' };
 
 const program = new Command();
+console.log("HIIII");
 
 program
   .name('pixeli')
