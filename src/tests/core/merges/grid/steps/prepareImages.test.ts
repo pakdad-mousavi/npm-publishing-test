@@ -83,7 +83,7 @@ describe('calculateImageDimensions', async () => {
 
   it.skip('scales images correctly', async () => {
     context.state.imageWidth = 400;
-    context.state.imageHeight = 400;
+    context.state.imageHeight = 500;
 
     const images = [...context.images];
     await prepareImages(context, { cornerRadius: 0 });
