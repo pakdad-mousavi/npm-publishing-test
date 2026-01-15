@@ -81,7 +81,7 @@ describe('calculateImageDimensions', async () => {
     });
   });
 
-  it.skip('scales images correctly', async () => {
+  it('scales images correctly', async () => {
     context.state.imageWidth = 400;
     context.state.imageHeight = 400;
 
